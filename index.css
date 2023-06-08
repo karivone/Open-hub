@@ -1,0 +1,239 @@
+.about-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.about-about {
+  gap: 10px;
+  width: 100%;
+  height: 1920px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.about-line12 {
+  top: 695px;
+  left: 95px;
+  width: 1010px;
+  height: 1px;
+  position: absolute;
+}
+.about-line121 {
+  top: 990px;
+  left: 101px;
+  width: 1010px;
+  height: 1px;
+  position: absolute;
+}
+.about-line13 {
+  top: 976px;
+  left: 36px;
+  width: 1010px;
+  height: 1px;
+  position: absolute;
+}
+.about-line14 {
+  top: 1631px;
+  left: 36px;
+  width: 1010px;
+  height: 1px;
+  position: absolute;
+}
+.about-rectangle37 {
+  top: 1479px;
+  left: 641px;
+  width: 242px;
+  height: 54px;
+  position: absolute;
+  border-radius: 10px;
+}
+.about-rectangle34 {
+  top: 141px;
+  left: 23px;
+  right: 23px;
+  width: 1160px;
+  height: 498px;
+  position: absolute;
+  border-radius: 10px;
+}
+.about-light-bulb-transparent-background1 {
+  top: 190px;
+  right: 79px;
+  width: 400px;
+  height: 390px;
+  position: absolute;
+}
+.about-text {
+  top: 438px;
+  left: 91px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Medium;
+  text-align: center;
+  font-family: David Libre;
+  font-weight: 500;
+  line-height: 165%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-text04 {
+  top: 786px;
+  left: 213px;
+  color: rgba(0, 0, 0, 1);
+  width: 344px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Medium;
+  text-align: left;
+  font-family: David Libre;
+  font-weight: 500;
+  line-height: 164.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-text06 {
+  top: 1036px;
+  left: 602px;
+  color: rgb(0, 0, 0);
+  width: 395px;
+  height: auto;
+  position: absolute;
+  font-size: 65px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Darker Grotesque;
+  font-weight: 700;
+  line-height: 165%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-text07 {
+  top: 1488px;
+  left: 698px;
+  color: rgba(0, 0, 0, 1);
+  width: 160px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: left;
+  font-family: David Libre;
+  font-weight: 700;
+  line-height: 164.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-text09 {
+  top: 1278px;
+  color: rgb(0, 0, 0);
+  right: 113px;
+  width: 484px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: left;
+  font-family: David Libre;
+  font-weight: 700;
+  line-height: 165%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-text12 {
+  top: 1165px;
+  left: 519px;
+  color: rgb(0, 0, 0);
+  width: 484px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: left;
+  font-family: David Libre;
+  font-weight: 700;
+  line-height: 165%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-text13 {
+  top: 763px;
+  color: rgb(0, 0, 0);
+  right: 163px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Darker Grotesque;
+  font-weight: 700;
+  line-height: 100%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-text18 {
+  top: 763px;
+  left: 683px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Darker Grotesque;
+  font-weight: 700;
+  line-height: 100%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-text23 {
+  top: 235px;
+  left: 89px;
+  color: rgba(0, 0, 0, 0.8);
+  width: 485px;
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Courier New;
+  font-weight: 700;
+  line-height: 100%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.about-image1 {
+  top: 1123px;
+  left: 87px;
+  width: 381px;
+  height: 425px;
+  position: absolute;
+}
+.about-image2 {
+  top: 783px;
+  left: 76px;
+  width: 100px;
+  height: 87px;
+  position: absolute;
+}
+.about-text27 {
+  top: 35px;
+  left: 75px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Darker Grotesque;
+  font-weight: 700;
+  line-height: 164.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
