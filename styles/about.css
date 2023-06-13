@@ -128,10 +128,8 @@ button:hover {
 }
 
 /* CONTENT */
-
 .content {
-    border: 1px solid #CCCCCC;
-    margin-left: 20%;
+    margin-left: 0%;
     padding: 10px;
     height: 450px;
     background-color: #fff;
@@ -148,6 +146,7 @@ button:hover {
     height: 450px;
     background: linear-gradient(to bottom, #194582ee 1%, #3cbdbb 100%);
     margin-bottom: 60px;
+    padding-left: 5%;
 }
 
 .text_slide {
@@ -192,7 +191,7 @@ button:hover {
 }
 
 .button_div {
-    margin-top: 2px;
+    margin-top: 1px;
     padding-left: 5%;
 }
 /* Slide Two */
