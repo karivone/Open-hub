@@ -39,6 +39,10 @@ button:hover {
     margin-bottom: 10px;
 }
 
+.header button {
+    align-items: center;
+}
+
 /* Footer */
 
 .footer {
